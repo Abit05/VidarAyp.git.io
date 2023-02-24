@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("/images/cvb.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/cvb.jpg");
   background-position: 50% 50%;
 }
 
@@ -63,7 +63,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 662px;
-  background-image: url("/images/AbitYudhaPrasetyo_HA1020013_PJWEB_2.JPG");
+  background-image: url("images/AbitYudhaPrasetyo_HA1020013_PJWEB_2.JPG");
   background-position: 50% 50%;
 }
 

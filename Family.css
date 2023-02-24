@@ -28,9 +28,9 @@
 
 .u-section-1 .u-image-1 {
   min-height: 655px;
-  background-image: url("/images/IMG-20220514-WA0001.jpg");
-  background-position: 100% 90.95%;
-  background-size: auto 135%;
+  background-image: url("images/IMG-20220514-WA0001.jpg");
+  background-position: 95% 90%;
+  background-size: auto 100%;
 }
 
 .u-section-1 .u-container-layout-2 {
